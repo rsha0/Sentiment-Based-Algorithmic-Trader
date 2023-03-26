@@ -10,7 +10,7 @@ The strategy which provides the highest return along with the strategy which has
 
 #### Get sentiment
 
-```http
+```python
 import requests
 
 # replace the "demo" apikey below with your own key from https://www.alphavantage.co/support/#api-key
@@ -23,7 +23,7 @@ print(data)
 
 #### For more Alpha Vantage API actions, click link below.
 
-```http
+```html
   https://www.alphavantage.co/documentation/
 ```
 
@@ -52,5 +52,5 @@ Python, Pandas, Matplotlib, Yfinance, Alpha Vantage API, Data Analysis
 
 ## Returns of Different Strategies Example
 
-![](http://TradingAlgReturns.jpg "Returns of Different Strategies")
+![](TradingAlgReturns.jpg)
 
