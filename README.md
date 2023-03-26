@@ -1,4 +1,3 @@
-
 # Sentiment Based Algorithmic Trading
 
 This project selects a stocks from the S&P500 index and filters them by public sentiment towards them. Following this, 3 different trading strategies are tested against these stocks: breakout, long bias and momentum strategies. To visualise the returns, there is a function which can plot out line curves for each strategy. 
@@ -52,6 +51,6 @@ Python, Pandas, Matplotlib, Yfinance, Alpha Vantage API, Data Analysis
 
 ## Returns of Different Strategies Example
 
-![](http://"TradingAlgReturns.jpg" "Returns of Different Strategies")
+![](http://TradingAlgReturns.jpg "Returns of Different Strategies")
 
 
