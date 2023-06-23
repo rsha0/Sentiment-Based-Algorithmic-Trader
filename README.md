@@ -54,3 +54,10 @@ Python, Pandas, Matplotlib, Yfinance, Alpha Vantage API, Data Analysis
 
 ![](TradingAlgReturns.jpg)
 
+## References
+1.<https://www.preqin.com/academy/lesson-3-hedge-funds/hedge-fund-strategies#:~:text=This%20strategy%20creates%20a%20hedge%20against%20market%20factors.&text=Long%2Dbias%20funds%2C%20on%20the,depending%20on%20its%20asset%20allocation.>
+2.<https://www.youtube.com/watch?v=GDMkkmkJigw&t=0s>
+3.<https://towardsdatascience.com/a-simple-breakout-trading-strategy-in-python-eb043b868d8e>
+4.<https://www.cfainstitute.org/en/research/cfa-digest/1997/08/momentum-strategies-digest-summary#:~:text=Abstract,after%20controlling%20for%20the%20other.>
+5.<https://www.youtube.com/watch?v=dO0NM_SzWfI>
+
