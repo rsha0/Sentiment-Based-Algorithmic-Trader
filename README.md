@@ -55,9 +55,9 @@ Python, Pandas, Matplotlib, Yfinance, Alpha Vantage API, Data Analysis
 ![](TradingAlgReturns.jpg)
 
 ## References
-1. Kaabar S., 'A Simple Breakout Trading Strategy in Python', published October 3rd 2020, retrieved March 24th 2023 <https://towardsdatascience.com/a-simple-breakout-trading-strategy-in-python-eb043b868d8e>
-2. NeuralNine, 'Algorithmic Trading Strategy in Python', published January 15th, retrieved March 25th 2023 <https://www.youtube.com/watch?v=dO0NM_SzWfI>
-3. Peake C.F., 'Momentum Strategies (Digest Summary)', published August 1st 1997, retrieved March 24th 2023 <https://www.cfainstitute.org/en/research/cfa-digest/1997/08/momentum-strategies-digest-summary#:~:text=Abstract,after%20controlling%20for%20the%20other.>
-4. PREQUIN,'Hedge Fund Strategies', publishing date unknown, retrieved March 25th 2023 <https://www.preqin.com/academy/lesson-3-hedge-funds/hedge-fund-strategies#:~:text=This%20strategy%20creates%20a%20hedge%20against%20market%20factors.&text=Long%2Dbias%20funds%2C%20on%20the,depending%20on%20its%20asset%20allocation.>
-5. QuantProgram, 'Algorithmic Trading Python 2023 - FULL TUTORIAL Beginner, first uploaded January 25th 2022, retrieved March 24th 2023 <https://www.youtube.com/watch?v=GDMkkmkJigw&t=0s>
+1. Kaabar S., 'A Simple Breakout Trading Strategy in Python', published October 3rd 2020, retrieved March 24th 2023: <https://towardsdatascience.com/a-simple-breakout-trading-strategy-in-python-eb043b868d8e>
+2. NeuralNine, 'Algorithmic Trading Strategy in Python', published January 15th, retrieved March 25th 2023: <https://www.youtube.com/watch?v=dO0NM_SzWfI>
+3. Peake C.F., 'Momentum Strategies (Digest Summary)', published August 1st 1997, retrieved March 24th 2023: <https://www.cfainstitute.org/en/research/cfa-digest/1997/08/momentum-strategies-digest-summary#:~:text=Abstract,after%20controlling%20for%20the%20other.>
+4. PREQUIN,'Hedge Fund Strategies', publishing date unknown, retrieved March 25th 2023: <https://www.preqin.com/academy/lesson-3-hedge-funds/hedge-fund-strategies#:~:text=This%20strategy%20creates%20a%20hedge%20against%20market%20factors.&text=Long%2Dbias%20funds%2C%20on%20the,depending%20on%20its%20asset%20allocation.>
+5. QuantProgram, 'Algorithmic Trading Python 2023 - FULL TUTORIAL Beginner, first uploaded January 25th 2022, retrieved March 24th 2023: <https://www.youtube.com/watch?v=GDMkkmkJigw&t=0s>
 
